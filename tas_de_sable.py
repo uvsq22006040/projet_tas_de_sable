@@ -6,4 +6,3 @@
 # Ilyes MAGHLAOUA
 # https://github.com/uvsq22006040/projet_tas_de_sable
 ####################################
-# import de librairies
