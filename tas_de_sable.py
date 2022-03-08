@@ -22,7 +22,7 @@ HAUTEUR = 600
 # largeur du canevas
 LARGEUR = 600
 # taille de la grille
-N =100
+N =3
 
 # paramètres de l'automate:
 # probabilité d'être un mur à l'initialisation:
